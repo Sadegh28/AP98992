@@ -1,0 +1,147 @@
+@font-face {
+    font-family: "b yekan";
+    src: url(/font/Yekan.ttf) format('ttf');
+  }
+
+.header{
+   float: right;
+   direction: rtl;
+   display: flex;
+   font-family: "b yekan";
+   width: 100%;
+}
+
+
+.main{
+    float: right;
+   direction: rtl;   
+   width: 100%;
+   padding-top: 50px;
+}
+
+.section{
+    padding-top: 20px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 20px;
+}
+
+.section_highlight{
+    background-color: aliceblue;
+    padding-top: 20px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 20px;
+}
+
+.section_highlight_title{
+    font-family: "b yekan";
+    font-size: large;
+    font-weight: bolder;
+}
+
+.section_highlight_content{
+    font-family: "b kamran";
+    font-size: x-large;
+    padding-right: 20px;
+    text-align: justify;
+    font-weight: bold;
+}
+
+
+.footer{
+
+}
+
+.uni_logo{
+    padding: 20px;
+    width: 300px; 
+}
+
+.course_title{
+    flex-grow: 1;
+    padding: 60px;
+    font-size: xx-large;
+}
+
+.instructor{
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 0px;
+
+}
+
+.names{
+    text-align: center;
+    font-family: tahoma;
+    font-size: small;
+    margin-right: 30px;
+    text-decoration: none;
+    width: 100%;
+    
+}
+
+.assistant{
+    float: right;
+    padding-top: 50px;
+    width: 300px;
+}
+
+.assistant_img{
+    width: 100%;
+    text-align: center;
+    margin-right: 20px;
+    
+    
+}
+.assistant_name{
+    width:100%;
+    text-align: center;
+}
+
+
+.btop{
+    text-align: center;
+    font-family: "b kamran";
+    font-size: xx-large;
+}
+
+.bdetails{
+    text-align: center;
+    font-family: "b kamran";
+    font-size: x-large;
+}
+
+.faq{
+    padding: 15px;
+}
+
+.faq_question{
+    font-family: "b kamran";
+    font-size: x-large;
+    font-weight: bold;
+}
+.faq_answer{
+    font-family: "b kamran";
+    font-size: large;
+}
+
+.syllabus_content{
+    font-family: "b kamran";
+    font-size: medium;
+    padding-right: 20px;
+    text-align: justify;
+}
+
+a:link {
+    color: blue;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+
+
+  
+  
