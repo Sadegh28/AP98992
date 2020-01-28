@@ -2,6 +2,11 @@
     font-family: "b yekan";
     src: url(/font/Yekan.ttf) format('ttf');
   }
+@font-face {
+    font-family: "b kamran";
+    src: url(/font/B\ Kamran_0.ttf) format('ttf');
+  }
+
 
 .header{
    float: right;
